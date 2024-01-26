@@ -1,1 +1,1 @@
-auto-resizable arrayLiist of ints implemented in C
+auto-resizable arrayList of ints implemented in C
